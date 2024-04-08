@@ -25,7 +25,7 @@ int IR_Mid = 4;
 #define FlameMidGreen A0
 #define FlameMidRed A1
 
-#define PIN_MQ135 A0
+#define PIN_MQ135 A2
 MQ135 mq135_sensor(PIN_MQ135);
 
 int FlameLeft=0;
